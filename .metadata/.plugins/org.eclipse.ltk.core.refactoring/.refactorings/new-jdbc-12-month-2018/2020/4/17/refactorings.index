@@ -1,0 +1,19 @@
+1587483887812	Copy compilation unit
+1587653352431	Encapsulate field 'totalItem'
+1587703850211	Rename type 'FormUtitls'
+1587707924119	Encapsulate field 'sortName'
+1587707929454	Encapsulate field 'sortBy'
+1587711443997	Delete element
+1587713632527	Encapsulate field 'sort'
+1587735251464	Copy compilation unit
+1587735268617	Delete element
+1587735299565	Rename type 'AoKhoac'
+1587735312581	Rename type 'DetailCotroller'
+1587783838657	Copy file
+1587787505609	Copy compilation unit
+1587787745870	Delete element
+1587787788622	Rename type 'IUserDao'
+1587789923010	Copy compilation unit
+1587790279599	Encapsulate field 'role'
+1587830662522	Rename type 'AuthenticationFilter'
+1587894347999	Encapsulate field 'type'

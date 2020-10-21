@@ -1,0 +1,28 @@
+1589165709307	Encapsulate field 'image'
+1589170778654	Rename type 'ProductController'
+1589170838246	Rename resource 'list.jsp'
+1589170860304	Move file
+1589170877592	Rename resource 'shopItem.jsp'
+1589170880476	Move file
+1589208662551	Encapsulate field 'fileImage'
+1589274070385	Delete elements
+1589376019154	Copy compilation unit
+1589376058737	Copy file
+1589381549005	Encapsulate field 'repeatPassword'
+1589549854716	Move file
+1589551641721	Delete element
+1589551659815	Rename resource 'boostrap.min.css'
+1589551673607	Rename resource 'bootstrap.min.js'
+1589551701826	Rename resource 'jquery.min.js'
+1589552042800	Rename resource 'boostrap.css'
+1589615042280	Copy file
+1589615084878	Copy compilation unit
+1589633954498	Copy file
+1589633975697	Rename resource 'home.jsp'
+1589634066947	Copy compilation unit
+1589634083638	Rename type 'BillController'
+1589634134818	Rename resource 'detailbill.jsp'
+1589637913370	Copy compilation unit
+1589686386464	Copy file
+1589686583646	Rename resource 'card.jsp'
+1589695140495	Copy compilation unit

@@ -1,0 +1,227 @@
+
+May 04, 2020 20:21:01.24 NEW SESSION
+May 04, 2020 20:21:01.24 [7612:8416:0504/202101.243:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 04, 2020 20:21:09.34 [7612:8416:0504/202109.345:ERROR:device_event_log_impl.cc(162)] [20:21:09.345] Bluetooth: bluetooth_adapter_winrt.cc:1186 Getting Radio failed. Chrome will be unable to change the power state by itself.
+May 04, 2020 20:21:09.35 [7612:8416:0504/202109.359:ERROR:device_event_log_impl.cc(162)] [20:21:09.359] Bluetooth: bluetooth_adapter_winrt.cc:1283 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+
+May 09, 2020 08:09:47.44 NEW SESSION
+May 09, 2020 08:09:47.45 [12328:7628:0509/080947.448:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 09, 2020 08:09:51.40 [12328:7628:0509/080951.407:ERROR:device_event_log_impl.cc(162)] [08:09:51.407] Bluetooth: bluetooth_adapter_winrt.cc:1186 Getting Radio failed. Chrome will be unable to change the power state by itself.
+May 09, 2020 08:09:51.42 [12328:7628:0509/080951.426:ERROR:device_event_log_impl.cc(162)] [08:09:51.426] Bluetooth: bluetooth_adapter_winrt.cc:1283 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+
+May 17, 2020 08:03:16.03 NEW SESSION
+May 17, 2020 08:03:16.03 [12376:1392:0517/080315.835:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 17, 2020 08:03:26.82 [12376:1392:0517/080326.826:ERROR:device_event_log_impl.cc(162)] [08:03:26.825] Bluetooth: bluetooth_adapter_winrt.cc:1186 Getting Radio failed. Chrome will be unable to change the power state by itself.
+May 17, 2020 08:03:26.84 [12376:1392:0517/080326.842:ERROR:device_event_log_impl.cc(162)] [08:03:26.842] Bluetooth: bluetooth_adapter_winrt.cc:1283 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+
+May 20, 2020 14:47:19.68 NEW SESSION
+May 20, 2020 14:47:19.68 [16004:7984:0520/144719.634:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 20, 2020 14:47:19.92 [16004:7060:0520/144719.921:ERROR:device_event_log_impl.cc(208)] [14:47:19.921] Bluetooth: bluetooth_adapter_winrt.cc:1191 Getting Radio failed. Chrome will be unable to change the power state by itself.
+May 20, 2020 14:47:19.95 [16004:7060:0520/144719.949:ERROR:device_event_log_impl.cc(208)] [14:47:19.949] Bluetooth: bluetooth_adapter_winrt.cc:1284 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+May 20, 2020 14:47:26.00 [16004:7984:0520/144726.003:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 20, 2020 14:48:25.32 [16004:7984:0520/144825.322:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 20, 2020 14:48:30.23 [16004:7984:0520/144830.230:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 20, 2020 14:49:12.10 [16004:7984:0520/144912.107:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 20, 2020 14:50:05.66 [16004:7984:0520/145005.663:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 20, 2020 14:50:14.51 [16004:7984:0520/145014.517:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 20, 2020 14:51:24.61 [16004:7984:0520/145124.610:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 20, 2020 14:51:42.53 [16004:7984:0520/145142.534:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 20, 2020 14:52:36.12 [16004:7984:0520/145236.122:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 20, 2020 14:52:47.65 [16004:7984:0520/145247.656:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 20, 2020 14:52:54.03 [16004:7984:0520/145254.038:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 20, 2020 14:53:56.31 [16004:7984:0520/145356.310:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 20, 2020 14:54:04.92 [16004:7984:0520/145404.923:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 20, 2020 14:54:11.03 [16004:7984:0520/145411.038:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Jun 11, 2020 10:22:59.27 NEW SESSION
+Jun 11, 2020 10:22:59.27 [10148:320:0611/102259.272:ERROR:device_event_log_impl.cc(208)] [10:22:59.272] Bluetooth: bluetooth_adapter_winrt.cc:1191 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Jun 11, 2020 10:22:59.30 [10148:320:0611/102259.293:ERROR:device_event_log_impl.cc(208)] [10:22:59.293] Bluetooth: bluetooth_adapter_winrt.cc:1284 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+
+Jun 11, 2020 20:09:27.01 NEW SESSION
+Jun 11, 2020 20:09:27.01 [8952:7704:0611/200927.015:ERROR:device_event_log_impl.cc(208)] [20:09:27.015] Bluetooth: bluetooth_adapter_winrt.cc:1191 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Jun 11, 2020 20:09:27.03 [8952:7704:0611/200927.030:ERROR:device_event_log_impl.cc(208)] [20:09:27.030] Bluetooth: bluetooth_adapter_winrt.cc:1284 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+Jun 11, 2020 20:14:59.21 [8952:10996:0611/201459.218:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+Jun 12, 2020 07:36:29.91 NEW SESSION
+Jun 12, 2020 07:36:29.91 [2928:7340:0612/073629.908:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:36:30.28 [2928:4760:0612/073630.287:ERROR:device_event_log_impl.cc(208)] [07:36:30.288] Bluetooth: bluetooth_adapter_winrt.cc:1191 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Jun 12, 2020 07:36:30.30 [2928:4760:0612/073630.307:ERROR:device_event_log_impl.cc(208)] [07:36:30.308] Bluetooth: bluetooth_adapter_winrt.cc:1284 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+Jun 12, 2020 07:36:47.88 [2928:7340:0612/073647.886:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:37:16.22 [2928:7340:0612/073716.228:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:37:31.20 [2928:7340:0612/073731.207:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:37:37.72 [2928:7340:0612/073737.724:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:38:31.25 [2928:7340:0612/073831.254:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:38:37.73 [2928:7340:0612/073837.735:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:38:52.47 [2928:7340:0612/073852.469:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:38:58.76 [2928:7340:0612/073858.762:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:39:52.54 [2928:7340:0612/073952.546:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:39:58.72 [2928:7340:0612/073958.728:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:40:10.55 [2928:7340:0612/074010.558:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:40:16.72 [2928:7340:0612/074016.727:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:41:10.59 [2928:7340:0612/074110.599:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:41:22.71 [2928:7340:0612/074122.713:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:42:16.40 [2928:7340:0612/074216.400:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:42:28.22 [2928:7340:0612/074228.221:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:43:22.17 [2928:7340:0612/074322.170:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:43:28.23 [2928:7340:0612/074328.233:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:43:45.09 [2928:7340:0612/074345.096:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:44:30.23 [2928:7340:0612/074430.235:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:45:24.23 [2928:7340:0612/074524.237:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:45:30.71 [2928:7340:0612/074530.710:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:45:42.74 [2928:7340:0612/074542.741:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:45:57.73 [2928:7340:0612/074557.730:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:46:51.39 [2928:7340:0612/074651.389:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:46:57.72 [2928:7340:0612/074657.723:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:47:14.21 [2928:7340:0612/074714.214:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:47:28.71 [2928:7340:0612/074728.718:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:48:30.43 [2928:7340:0612/074830.439:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:48:36.71 [2928:7340:0612/074836.712:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:48:44.82 [2928:7340:0612/074844.819:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:48:54.20 [2928:7340:0612/074854.201:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:49:54.25 [2928:7340:0612/074954.251:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:50:00.72 [2928:7340:0612/075000.726:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:50:15.35 [2928:7340:0612/075015.359:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:50:29.22 [2928:7340:0612/075029.223:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:51:22.92 [2928:7340:0612/075122.920:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:51:29.22 [2928:7340:0612/075129.222:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:51:41.75 [2928:7340:0612/075141.752:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:51:48.22 [2928:7340:0612/075148.228:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:52:41.77 [2928:7340:0612/075241.774:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:52:48.23 [2928:7340:0612/075248.233:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:52:51.60 [2928:7340:0612/075251.605:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:52:57.72 [2928:7340:0612/075257.726:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:53:58.67 [2928:7340:0612/075358.677:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:54:04.72 [2928:7340:0612/075404.722:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:54:58.64 [2928:7340:0612/075458.645:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:55:18.71 [2928:7340:0612/075518.715:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:56:12.69 [2928:7340:0612/075612.692:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:56:19.22 [2928:7340:0612/075619.226:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:56:34.29 [2928:7340:0612/075634.297:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:56:48.23 [2928:7340:0612/075648.235:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:57:42.04 [2928:7340:0612/075742.045:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:57:48.21 [2928:7340:0612/075748.215:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:58:03.20 [2928:7340:0612/075803.208:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:58:09.72 [2928:7340:0612/075809.719:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:58:49.80 [2928:7340:0612/075849.806:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:59:05.72 [2928:7340:0612/075905.724:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 07:59:59.29 [2928:7340:0612/075959.290:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 08:00:05.72 [2928:7340:0612/080005.719:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 08:00:13.30 [2928:7340:0612/080013.307:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 08:00:27.22 [2928:7340:0612/080027.222:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 08:01:21.00 [2928:7340:0612/080121.006:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 08:01:27.22 [2928:7340:0612/080127.224:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 08:01:34.93 [2928:7340:0612/080134.938:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 08:01:41.22 [2928:7340:0612/080141.228:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 08:02:34.97 [2928:7340:0612/080234.976:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 08:02:41.22 [2928:7340:0612/080241.229:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 08:02:56.10 [2928:7340:0612/080256.099:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 12, 2020 08:03:02.22 [2928:7340:0612/080302.226:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Jun 15, 2020 14:54:37.63 NEW SESSION
+Jun 15, 2020 14:54:37.63 [7576:5600:0615/145437.613:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 15, 2020 14:54:38.37 [7576:8244:0615/145438.378:ERROR:device_event_log_impl.cc(208)] [14:54:38.378] Bluetooth: bluetooth_adapter_winrt.cc:1191 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Jun 15, 2020 14:54:38.39 [7576:8244:0615/145438.393:ERROR:device_event_log_impl.cc(208)] [14:54:38.393] Bluetooth: bluetooth_adapter_winrt.cc:1284 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+Jun 15, 2020 14:55:01.12 [7576:5600:0615/145501.125:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 15, 2020 14:55:53.92 [7576:5600:0615/145553.928:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 15, 2020 14:57:45.06 [7576:5600:0615/145745.065:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 15, 2020 15:00:48.15 [7576:5600:0615/150048.156:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 15, 2020 15:07:03.41 [7576:5600:0615/150703.413:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 15, 2020 17:47:13.48 [7576:5600:0615/174713.482:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 15, 2020 17:47:20.96 [7576:5600:0615/174720.963:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Jun 15, 2020 18:14:16.45 NEW SESSION
+Jun 15, 2020 18:14:16.45 [8500:5360:0615/181416.456:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 15, 2020 18:14:16.67 [8500:9424:0615/181416.673:ERROR:device_event_log_impl.cc(208)] [18:14:16.673] Bluetooth: bluetooth_adapter_winrt.cc:1191 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Jun 15, 2020 18:14:16.69 [8500:9424:0615/181416.693:ERROR:device_event_log_impl.cc(208)] [18:14:16.692] Bluetooth: bluetooth_adapter_winrt.cc:1284 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+
+Jun 16, 2020 11:34:16.83 NEW SESSION
+Jun 16, 2020 11:34:16.83 [3336:6764:0616/113416.820:ERROR:device_event_log_impl.cc(208)] [11:34:16.819] Bluetooth: bluetooth_adapter_winrt.cc:1191 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Jun 16, 2020 11:34:16.87 [3336:6764:0616/113416.837:ERROR:device_event_log_impl.cc(208)] [11:34:16.837] Bluetooth: bluetooth_adapter_winrt.cc:1284 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+
+Jun 18, 2020 08:31:00.91 NEW SESSION
+Jun 18, 2020 08:31:00.91 [11516:11344:0618/083100.691:ERROR:device_event_log_impl.cc(208)] [08:31:00.691] Bluetooth: bluetooth_adapter_winrt.cc:1191 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Jun 18, 2020 08:31:01.44 [11516:11344:0618/083100.709:ERROR:device_event_log_impl.cc(208)] [08:31:00.709] Bluetooth: bluetooth_adapter_winrt.cc:1284 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+
+Jun 18, 2020 09:26:28.59 NEW SESSION
+Jun 18, 2020 09:26:28.59 [8600:7944:0618/092628.591:ERROR:device_event_log_impl.cc(208)] [09:26:28.592] Bluetooth: bluetooth_adapter_winrt.cc:1191 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Jun 18, 2020 09:26:28.66 [8600:7944:0618/092628.630:ERROR:device_event_log_impl.cc(208)] [09:26:28.630] Bluetooth: bluetooth_adapter_winrt.cc:1284 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+Jun 18, 2020 10:02:48.74 [8600:904:0618/100248.744:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jun 18, 2020 10:02:51.71 [8600:904:0618/100251.714:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:02:58.22 [8600:904:0618/100258.221:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:03:07.60 [8600:904:0618/100307.602:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:03:13.71 [8600:904:0618/100313.715:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:03:28.95 [8600:904:0618/100328.952:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:03:43.21 [8600:904:0618/100343.213:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:04:36.85 [8600:904:0618/100436.855:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:04:45.71 [8600:904:0618/100445.715:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:05:00.72 [8600:904:0618/100500.725:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:05:07.21 [8600:904:0618/100507.217:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:06:00.84 [8600:904:0618/100600.840:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:06:07.21 [8600:904:0618/100607.213:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:06:22.43 [8600:904:0618/100622.433:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:06:31.63 [8600:904:0618/100631.638:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:06:37.69 [8600:904:0618/100637.699:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:07:31.63 [8600:904:0618/100731.633:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:07:37.69 [8600:904:0618/100737.695:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:07:52.97 [8600:904:0618/100752.977:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:08:08.77 [8600:904:0618/100808.772:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:08:15.21 [8600:904:0618/100815.214:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:09:16.39 [8600:904:0618/100916.389:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:09:22.72 [8600:904:0618/100922.721:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:09:37.82 [8600:904:0618/100937.819:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:09:52.21 [8600:904:0618/100952.210:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:10:57.11 [8600:904:0618/101057.118:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:11:03.21 [8600:904:0618/101103.212:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:11:19.43 [8600:904:0618/101119.432:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:11:25.70 [8600:904:0618/101125.705:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:12:19.52 [8600:904:0618/101219.519:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:12:25.71 [8600:904:0618/101225.709:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:12:42.22 [8600:904:0618/101242.220:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:12:48.69 [8600:904:0618/101248.698:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:13:29.61 [8600:904:0618/101329.613:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:13:40.78 [8600:904:0618/101340.785:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:21:57.61 [8600:904:0618/102157.610:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:22:05.47 [8600:904:0618/102205.479:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:22:11.71 [8600:904:0618/102211.709:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:23:13.10 [8600:904:0618/102313.107:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:23:19.21 [8600:904:0618/102319.214:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:23:57.23 [8600:904:0618/102357.233:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:24:03.70 [8600:904:0618/102403.709:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:25:04.83 [8600:904:0618/102504.831:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:25:11.21 [8600:904:0618/102511.212:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:26:04.83 [8600:904:0618/102604.835:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:26:13.00 [8600:904:0618/102613.002:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:26:19.21 [8600:904:0618/102619.211:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:27:23.14 [8600:904:0618/102723.141:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:27:29.20 [8600:904:0618/102729.209:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:28:33.27 [8600:904:0618/102833.272:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:28:39.72 [8600:904:0618/102839.719:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:33:40.68 [8600:904:0618/103340.685:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:33:46.71 [8600:904:0618/103346.712:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:34:50.79 [8600:904:0618/103450.793:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:34:57.21 [8600:904:0618/103457.219:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:36:00.92 [8600:904:0618/103600.922:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:36:07.21 [8600:904:0618/103607.212:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:37:11.10 [8600:904:0618/103711.107:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:37:17.22 [8600:904:0618/103717.222:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:38:21.26 [8600:904:0618/103821.269:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:38:27.71 [8600:904:0618/103827.715:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:39:31.43 [8600:904:0618/103931.435:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:39:37.71 [8600:904:0618/103937.712:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:40:41.59 [8600:904:0618/104041.594:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:40:47.71 [8600:904:0618/104047.714:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:41:51.76 [8600:904:0618/104151.768:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:41:58.21 [8600:904:0618/104158.212:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:43:01.98 [8600:904:0618/104301.980:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:43:08.22 [8600:904:0618/104308.222:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:44:09.90 [8600:904:0618/104409.872:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:44:16.21 [8600:904:0618/104416.211:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:45:20.03 [8600:904:0618/104520.029:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:45:26.21 [8600:904:0618/104526.210:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 10:46:42.16 [8600:904:0618/104642.161:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 18, 2020 16:51:47.50 [8600:9836:0618/165146.015:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 18, 2020 16:51:47.53 [8600:904:0618/165146.021:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 18, 2020 16:52:08.21 [8600:904:0618/165208.216:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 16:52:08.23 [8600:9836:0618/165208.217:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 18, 2020 16:52:25.34 [8600:904:0618/165225.348:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 18, 2020 16:52:25.36 [8600:9836:0618/165225.349:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2

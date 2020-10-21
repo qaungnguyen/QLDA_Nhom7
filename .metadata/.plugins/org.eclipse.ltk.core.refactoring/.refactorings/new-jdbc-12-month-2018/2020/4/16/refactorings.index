@@ -1,0 +1,23 @@
+1587135464298	Rename type 'NewModel'
+1587136041344	Rename type 'INewDAO'
+1587136058673	Rename type 'NewDAO'
+1587137837205	Rename type 'NewService'
+1587138324368	Rename type 'NewMapper'
+1587138599100	Rename type 'INewService'
+1587183021762	Copy compilation unit
+1587189585846	Delete element
+1587189649478	Copy compilation unit
+1587189656681	Copy compilation unit
+1587189660407	Delete element
+1587189671608	Copy compilation unit
+1587189694227	Copy compilation unit
+1587189702196	Copy compilation unit
+1587189714385	Rename type 'HomeController'
+1587189724809	Rename type 'HomeController2'
+1587190051113	Delete elements
+1587245606091	Copy compilation unit
+1587245820794	Copy compilation unit
+1587245837673	Copy compilation unit
+1587245848102	Copy compilation unit
+1587303241774	Rename type 'NewAPI'
+1587306407862	Encapsulate field 'ids'

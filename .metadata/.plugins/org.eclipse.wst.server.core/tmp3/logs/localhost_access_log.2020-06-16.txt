@@ -1,0 +1,4 @@
+127.0.0.1 - - [16/Jun/2020:11:34:04 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [16/Jun/2020:11:34:12 +0700] "GET /zio.com/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [16/Jun/2020:11:34:13 +0700] "GET /zio.com/dang-nhap?action=login&message=not_login&alert=danger HTTP/1.1" 200 1613
+0:0:0:0:0:0:0:1 - - [16/Jun/2020:11:34:14 +0700] "GET /favicon.ico HTTP/1.1" 404 1085
